@@ -1,5 +1,7 @@
 # Test
 
+Itch page: https://felipebr13pr.itch.io/flappy-cube
+
 Hey.
 First time using Git and Github.
 
@@ -48,6 +50,8 @@ Next time i should
 ---
 
 Versão PT.
+
+Pagina do itch: https://felipebr13pr.itch.io/flappy-cube
 
 Oi.
 Primeira vez usando Git e Github.
