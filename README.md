@@ -1,6 +1,10 @@
-# Test
+# Flappy Cube
 
 Itch page: https://felipebr13pr.itch.io/flappy-cube
+
+Press space to jump, pass through the pipe gaps to gain scores.
+
+# Personal Notes
 
 Hey.
 First time using Git and Github.
